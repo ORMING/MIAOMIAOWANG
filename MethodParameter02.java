@@ -3,7 +3,7 @@ public class MethodParameter02{
 		//测试
 		AC b = new AC();
 		int[] arr = {1,2,3};
-		b.test100(arr);//调用方法
+		b .test100(arr);//调用方法
 		System.out.println("main的arr数组");
 		//遍历数组
 		System.out.println("test100的 arr数组");
